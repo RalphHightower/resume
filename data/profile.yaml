@@ -1,31 +1,32 @@
 basicInfo:
-  firstName: John
-  lastName: Doe
-  photo: img/avatar.jpg
+  firstName: Ralph
+  lastName: Hightower
+  photo: 
   contacts:
     - icon: fa fa-linkedin
-      info: https://linkedin.com/in/JohnDoe
+      info: https://linkedin.com/in/RalphHightower
     - icon: fa fa-github
-      info: https://github.com/JohnDoe
+      info: https://github.com/RalphHightower
     - icon: fa fa-map-marker
-      info: Somewhere
+      info: Chapin, South Carolina
 overview:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sem nec tellus facilisis aliquam. Curabitur lobortis, tortor eget laoreet interdum, nisi magna maximus risus, sed placerat urna sapien non sapien. Aliquam fermentum neque vitae nibh vulputate auctor. Vivamus ut ante posuere, pretium enim sit amet, porttitor elit. Pellentesque at purus risus. Sed consectetur justo vel sem consectetur, sit amet porttitor diam finibus. Ut dictum, justo eu tempus blandit, sem leo pharetra enim, in vulputate mauris leo nec enim. Sed nec pretium nisl, vitae ullamcorper tortor. Maecenas elementum nisi metus, eget porta urna suscipit id. Nullam mauris eros, scelerisque sed molestie et, eleifend sed sem. Maecenas vitae metus nec risus lacinia semper et at mauris. Praesent euismod nunc nec tellus consequat, maximus pellentesque nisi gravida. Ut ac ante vitae dolor blandit euismod.
-coreCompetencies:
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Proin sed nunc eu orci mattis pulvinar.
-  - Vivamus fermentum odio non mollis sagittis.
-projects:
-  - https://github.com/nukleros/operator-builder
-  - https://github.com/JefeDavis/resume
+  I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 50++ years experience; still active for personal projects. Witnessed two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis w/ Final Four.
+  coreCompetencies:
+  - C# .Net developing Windows Applications, services, and web applications. 
+  projects:
+  - [NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://github.com/RalphHightower/SpaceShuttleMissionSchedule)
   - https://github.com/JefeDavis/resume-operator
 skills:
   - family: Programming
     items:
-      - Golang
+      - C#, C++, C
   - family: Developer Tools
     items:
+      - Microsoft Visual Studio
       - Git
-  - family: Container Orchestration
+  - family: Projects
     items:
-      - Kubernetes
+        - family: Photography
+    items:
+      - film and digital photography 
+      - event photography, pet photography, landscape photography 
